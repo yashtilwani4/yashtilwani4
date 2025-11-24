@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Tilwani</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | Building Scalable Web Apps | DevOps | Passionate about Web & Cloud</h3>
 
-- 🔭 I’m currently working on [TechConnect](https://github.com/yashtilwani4/FullStack-AI-Chatbot/tree/main)
-
 - 🌱 I’m currently learning **Advanced Backend TechStack, Advanced Data Structures & Algorithms Cloud Deployment & Security (AWS, Vercel, Netlify, Render)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashtilwani4](https://github.com/yashtilwani4)
 
 - 📫 I am available at **yashtilwani4@gmail.com**
-
-- 📄 Resume Link [https://drive.google.com/file/d/144a1TOSy1c3fvktk6ogOtpmwPheFiIad/view?usp=sharing](https://drive.google.com/file/d/144a1TOSy1c3fvktk6ogOtpmwPheFiIad/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
