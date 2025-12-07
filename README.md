@@ -102,7 +102,7 @@ Here are some projects I'm building or have planned:
 Feel free to reach out or connect with me on these platforms:
 
 <p>
-  <a href="https://www.linkedin.com/in/yashtilwani/" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-tilwani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:yashtilwani4@gmail.com">
